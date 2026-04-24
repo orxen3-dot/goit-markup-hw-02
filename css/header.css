@@ -1,0 +1,29 @@
+.logo {
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    color: #2E2F42;
+    letter-spacing: 3%;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.logo .web {
+    color: #4D5AE5;
+}
+.nav a {
+    color: #2E2F42;
+    text-decoration: none;
+    font-weight: 700;
+}
+.nav a:hover,
+.nav a:focus {
+    color: #404BBF;
+}
+.adress a {
+    color: currentColor;
+    text-decoration: none;
+    font-style: normal;
+}
+.adress a:hover,
+.adress a:focus {
+    color: #404BBF
+}

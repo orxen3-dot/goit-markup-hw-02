@@ -1,0 +1,17 @@
+.page-title {
+text-align: center;
+color: #ffffff;
+font-size: 56px;
+}
+#hero {
+    background-color: #2E2F42;
+}
+.button {
+    cursor: pointer;
+    color: #ffffff;
+    background-color: #4D5AE5;
+}
+.button:hover,
+.button:focus {
+    background-color: #404BBF;
+}

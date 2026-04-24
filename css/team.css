@@ -1,0 +1,16 @@
+#team{
+    background-color: #F4F4FD;
+}
+.section-title {
+    text-align: center;
+    color: #2E2F42;
+    font-size: 36px;
+}
+.team-list h3,
+.team-list p {
+    text-align: center;
+    color: #2E2F42;
+}
+.team-list > li {
+    background-color: #ffffff;
+}
