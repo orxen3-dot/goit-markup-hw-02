@@ -1,9 +1,17 @@
-#footer {
+.footer {
     background-color: #2E2F42;
 }
 .footer-text {
     color: #F4F4FD;
+    letter-spacing: 1.02;
+    line-height: 1.5;
 }
-#footer .logo {
+.footer > .logo {
     color: #F4F4FD;
+}
+.footer .logo {
+font-weight: bold;
+line-height: 1.16;
+letter-spacing: 1.03;
+
 }

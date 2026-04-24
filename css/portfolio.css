@@ -1,0 +1,17 @@
+.section-title {
+    text-align: center;
+    color: #2E2F42;
+    font-size: 36px;
+    line-height: 1.11;
+    font-weight: bold;
+}
+.section-title h3 {
+    font-size: 20px;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+.section-title p {
+   color:#434455;
+   letter-spacing: 0.02em;
+   line-height: 1.5;
+}

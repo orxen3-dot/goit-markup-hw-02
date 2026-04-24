@@ -1,16 +1,26 @@
-#team{
+.team-section {
     background-color: #F4F4FD;
 }
 .section-title {
     text-align: center;
     color: #2E2F42;
     font-size: 36px;
+    line-height: 1.11;
+    font-weight: bold;
 }
 .team-list h3,
 .team-list p {
     text-align: center;
-    color: #2E2F42;
 }
 .team-list > li {
     background-color: #ffffff;
+}
+.team-list h3 {
+    font-size: 20px;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+.team-list p {
+   color:#434455;
+   letter-spacing: 0.02em;
 }

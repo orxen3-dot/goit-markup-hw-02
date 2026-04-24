@@ -2,26 +2,29 @@
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
     color: #2E2F42;
-    letter-spacing: 3%;
+    letter-spacing: 1.03;
     text-transform: uppercase;
     text-decoration: none;
+    font-weight: bold;
 }
 .logo .web {
     color: #4D5AE5;
 }
-.nav a {
+.nav .nav-link {
     color: #2E2F42;
     text-decoration: none;
-    font-weight: 700;
+    font-weight: 500;
+    letter-spacing: inherit;
 }
-.nav a:hover,
-.nav a:focus {
+.nav .nav-link:hover,
+.nav .nav-link:focus {
     color: #404BBF;
 }
 .adress a {
     color: currentColor;
     text-decoration: none;
     font-style: normal;
+    letter-spacing: inherit;
 }
 .adress a:hover,
 .adress a:focus {
