@@ -3,7 +3,7 @@
 }
 .footer-text {
     color: #F4F4FD;
-    letter-spacing: 1.02;
+    letter-spacing: 0.02em;
     line-height: 1.5;
 }
 .footer > .logo {
@@ -11,7 +11,7 @@
 }
 .footer .logo {
 font-weight: bold;
-line-height: 1.16;
-letter-spacing: 1.03;
+line-height: 1.2em;
+letter-spacing: 0.03em;
 
 }

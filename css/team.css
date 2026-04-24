@@ -7,6 +7,7 @@
     font-size: 36px;
     line-height: 1.11;
     font-weight: bold;
+    letter-spacing: 0.02em;
 }
 .team-list h3,
 .team-list p {
@@ -19,8 +20,10 @@
     font-size: 20px;
     letter-spacing: 0.02em;
     color: #2E2F42;
+    line-height: 1.2;
 }
 .team-list p {
    color:#434455;
    letter-spacing: 0.02em;
+    line-height: 1.5;
 }

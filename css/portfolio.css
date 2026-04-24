@@ -4,13 +4,15 @@
     font-size: 36px;
     line-height: 1.11;
     font-weight: bold;
+    letter-spacing: 0.02em;
 }
-.section-title h3 {
+.portfolio-list h3 {
     font-size: 20px;
     letter-spacing: 0.02em;
+    line-height: 1.2;
     color: #2E2F42;
 }
-.section-title p {
+.portfolio-list p {
    color:#434455;
    letter-spacing: 0.02em;
    line-height: 1.5;

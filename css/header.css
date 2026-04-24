@@ -2,10 +2,11 @@
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
     color: #2E2F42;
-    letter-spacing: 1.03;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
     text-decoration: none;
     font-weight: bold;
+    line-height: 1.2em;
 }
 .logo .web {
     color: #4D5AE5;
@@ -14,7 +15,8 @@
     color: #2E2F42;
     text-decoration: none;
     font-weight: 500;
-    letter-spacing: inherit;
+    letter-spacing: 0.02em;
+    line-height: 1.5;
 }
 .nav .nav-link:hover,
 .nav .nav-link:focus {
@@ -24,7 +26,8 @@
     color: currentColor;
     text-decoration: none;
     font-style: normal;
-    letter-spacing: inherit;
+    letter-spacing: 0.02em;
+    line-height: 1.5;
 }
 .adress a:hover,
 .adress a:focus {
